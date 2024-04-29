@@ -36,4 +36,6 @@ public class LoginTests extends BaseTest {
 
 		Assert.assertTrue(message.contains(expectedErrorMessage), "Message doesn't contain expected text.");
 	}
+
+	System.out.println("test git repo");
 }
