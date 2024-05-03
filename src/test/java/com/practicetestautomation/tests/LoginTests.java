@@ -38,4 +38,9 @@ public class LoginTests extends BaseTest {
 	}
 
 	System.out.println("test git repo");
+	System.out.println("test git pull");
+	System.out.println("test git pull");
+	System.out.println("test git pull");
+	System.out.println("test git pull");
+	System.out.println("test git pull");
 }
